@@ -1,4 +1,6 @@
 site_name: 我的文档
+site_dir: site
+
 
 # 指定使用Material主题
 theme:
